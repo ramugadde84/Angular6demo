@@ -25,3 +25,9 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+##To load datatables use the command below
+npm i angular-6-datatable --save
+
+##Adding Boot Strap
+ng add @ng-bootstrap/schematics
